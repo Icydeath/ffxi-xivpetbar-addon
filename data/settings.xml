@@ -2,7 +2,7 @@
 <settings>
     <global>
         <Bars>
-            <OffsetX>0</OffsetX>
+            <OffsetX>600</OffsetX>
             <OffsetY>0</OffsetY>
         </Bars>
         <Texts>
@@ -41,7 +41,7 @@
             </Bar>
             <Compact>false</Compact>
             <DimTpBar>true</DimTpBar>
-            <Name>ffxiv</Name>
+            <Name>ffxiv-legacy</Name>
             <PetNameRight>false</PetNameRight>
         </Theme>
     </global>
